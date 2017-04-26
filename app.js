@@ -8,14 +8,15 @@ var cmd = require('node-cmd');
 var async = require('async');
 var mysql = require('mysql');
 var crypt = require('cryptr');
+const config = require('./db.js');
 
 var encryptor = new crypt("testing123");
 
 var connection = mysql.createConnection({
-	host: 'localhost',
-	user: 'root',
-	password: 'testing123',
-	database: 'doselect'
+	host: config.host,
+	user: config.user,
+	password: config.password,
+	database: config.database
 });
 
 connection.connect();
