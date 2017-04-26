@@ -1,0 +1,18 @@
+Loading 100309
+./lepton -hugepages -decode -recodememory=24M - (NULL)
+./lepton -hugepages -recode -recodememory=24M - (NULL)
+lepton v1.0-1.2.1-100-g6d940eb
+lepton v1.0-1.2.1-100-g6d940eb
+6673863 bytes needed to decompress this file
+1215 100309
+01.21%
+2527560 bytes needed to decompress this file
+1215 100309
+01.21%
+Timing encode: 0.077492 encode process exit: 0.077523
+2527560 bytes needed to decompress this file
+1215 100309
+01.21%
+Timing decode: 0.014242 decode process exit: 0.014444
+EXIT STATUS 0 (0) 0 (0)
+PASS test_suite/test_gray2sf (exit status: 0)

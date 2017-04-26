@@ -1,0 +1,26 @@
+10557558 bytes needed to decompress this file
+DONE
+8617707 bytes needed to decompress this file
+DONE
+8617707 bytes needed to decompress this file
+DONE
+filetype of file "-" is unknownfiletype of file "-" is unknownfiletype of file "-" is unknown72 bytes needed to decompress this file
+72 bytes needed to decompress this file
+UNSUPPORTED_JPEGUNSUPPORTED_JPEG
+
+72 bytes needed to decompress this file
+UNSUPPORTED_JPEG
+filetype of file "-" is unknownfiletype of file "-" is unknownfiletype of file "-" is unknown72 bytes needed to decompress this file
+UNSUPPORTED_JPEG
+72 bytes needed to decompress this file
+UNSUPPORTED_JPEG
+72 bytes needed to decompress this file
+UNSUPPORTED_JPEG
+EARLY_EXIT
+('written ', <open file '/tmp/73b38ac97f-8dbd-0762-c0a6224ff622-c8.iport', mode 'wb' at 0x7f95c1777ed0>)
+closed
+(2236391, 1718826)
+('written ', <open file '/tmp/0f1f611a19-d1e5-dae3-4194c1cee3ca-b6.iport', mode 'wb' at 0x7f95c047b030>)
+('xclosed ', <closed file '/tmp/0f1f611a19-d1e5-dae3-4194c1cee3ca-b6.iport', mode 'wb' at 0x7f95c047b030>)
+('yay', 2236391, 1718826, 0.7685713276435113)
+PASS test_suite/forktester.py (exit status: 0)

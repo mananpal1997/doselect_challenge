@@ -1,0 +1,52 @@
+Loading 3164341
+./lepton ./lepton -hugepages -hugepages -decode -recode -memory=256M -memory=256M -recodememory=24M -recodememory=24M - - (NULL)
+(NULL)
+lepton v1.0-1.2.1-100-g6d940eb
+lepton v1.0-1.2.1-100-g6d940eb
+12474378 bytes needed to decompress this file
+2424185 3164341
+76.61%
+11481547 bytes needed to decompress this file
+2424185 3164341
+76.61%
+Timing encode: 0.869926 encode process exit: 0.869942
+11481547 bytes needed to decompress this file
+2424185 3164341
+76.61%
+Timing decode: 0.337868 decode process exit: 0.339328
+EXIT STATUS 0 (0) 0 (0)
+Loading 3093458
+./lepton -hugepages -decode -defermd5 -memory=256M -recodememory=24M - (NULL)
+./lepton -hugepages -recode -memory=256M -recodememory=24M - (NULL)
+lepton v1.0-1.2.1-100-g6d940eb
+lepton v1.0-1.2.1-100-g6d940eb
+12087047 bytes needed to decompress this file
+2345552 3093458
+75.82%
+10890343 bytes needed to decompress this file
+2345552 3093458
+75.82%
+Timing encode: 0.940697 encode process exit: 0.940712
+10890335 bytes needed to decompress this file
+2345552 3093458
+75.82%
+Timing decode: 0.360985 decode process exit: 0.362284
+EXIT STATUS 0 (0) 0 (0)
+Loading 5909812
+./lepton -hugepages -decode -memory=256M -recodememory=24M - (NULL)
+./lepton -hugepages -recode -memory=256M -recodememory=24M - (NULL)
+lepton v1.0-1.2.1-100-g6d940eb
+lepton v1.0-1.2.1-100-g6d940eb
+15232745 bytes needed to decompress this file
+4560569 5909812
+77.17%
+15980998 bytes needed to decompress this file
+4560569 5909812
+77.17%
+Timing encode: 1.630797 encode process exit: 1.630812
+15980998 bytes needed to decompress this file
+4560569 5909812
+77.17%
+Timing decode: 0.615538 decode process exit: 0.617077
+EXIT STATUS 0 (0) 0 (0)
+PASS test_suite/test_SLR (exit status: 0)

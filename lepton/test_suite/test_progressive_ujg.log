@@ -1,0 +1,55 @@
+Loading 101316
+./lepton -hugepages -decode -ujg -allowprogressive -recodememory=24M - (NULL)
+./lepton -hugepages -recode -allowprogressive -recodememory=24M - (NULL)
+lepton v1.0-1.2.1-100-g6d940eb
+FOUND UJG ARG: using that as output
+lepton v1.0-1.2.1-100-g6d940eb
+ bytes needed to decompress this file
+4080773 101316
+027.77%
+ bytes needed to decompress this file
+4080773 101316
+027.77%
+Timing encode: 0.145279 encode process exit: 0.145295
+ bytes needed to decompress this file
+4080773 101316
+027.77%
+Timing decode: 0.041605 decode process exit: 0.042005
+EXIT STATUS 0 (0) 0 (0)
+Loading 145794
+./lepton -hugepages -decode -ujg -defermd5 -allowprogressive -recodememory=24M ./lepton - (NULL)
+-hugepages -recode -allowprogressive -recodememory=24M - (NULL)
+lepton v1.0-1.2.1-100-g6d940eb
+FOUND UJG ARG: using that as output
+lepton v1.0-1.2.1-100-g6d940eb
+ bytes needed to decompress this file
+2758204 145794
+891.85%
+ bytes needed to decompress this file
+2758204 145794
+891.85%
+Timing encode: 0.106179 encode process exit: 0.106196
+ bytes needed to decompress this file
+2758204 145794
+891.85%
+Timing decode: 0.034684 decode process exit: 0.035069
+EXIT STATUS 0 (0) 0 (0)
+Loading 75275
+./lepton -hugepages -decode -ujg -allowprogressive -recodememory=24M - (NULL)
+FOUND UJG ARG: using that as output
+lepton v1.0-1.2.1-100-g6d940eb
+./lepton -hugepages -recode -allowprogressive -recodememory=24M - (NULL)
+lepton v1.0-1.2.1-100-g6d940eb
+ bytes needed to decompress this file
+2070855 75275
+751.05%
+ bytes needed to decompress this file
+2070855 75275
+751.05%
+Timing encode: 0.081938 encode process exit: 0.081953
+ bytes needed to decompress this file
+2070855 75275
+751.05%
+Timing decode: 0.024729 decode process exit: 0.025081
+EXIT STATUS 0 (0) 0 (0)
+PASS test_suite/test_progressive_ujg (exit status: 0)

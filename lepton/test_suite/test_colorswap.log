@@ -1,0 +1,18 @@
+Loading 308
+./lepton -hugepages -decode -recodememory=24M - (NULL)
+./lepton -hugepages -recode -recodememory=24M - (NULL)
+lepton v1.0-1.2.1-100-g6d940eb
+lepton v1.0-1.2.1-100-g6d940eb
+6558935 bytes needed to decompress this file
+255 308
+82.79%
+2374728 bytes needed to decompress this file
+255 308
+82.79%
+Timing encode: 0.010079 encode process exit: 0.010102
+2374728 bytes needed to decompress this file
+255 308
+82.79%
+Timing decode: 0.002525 decode process exit: 0.003109
+EXIT STATUS 0 (0) 0 (0)
+PASS test_suite/test_colorswap (exit status: 0)

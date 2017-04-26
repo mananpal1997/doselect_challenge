@@ -1,0 +1,15 @@
+lepton v1.0-1.2.1-100-g6d940eb
+6609167 bytes needed to decompress this file
+23052 35243
+65.41%
+2386290 bytes needed to decompress this file
+23052 35243
+65.41%
+Input Size 35243 != Roundtrip Size 35243
+67cba200e9974141febbb047993c7eac != adc2b88be9d9ff1e7b6f957184c8530b
+ROUNDTRIP_FAILURE
+lepton v1.0-1.2.1-100-g6d940eb
+6609167 bytes needed to decompress this file
+23052 35243
+65.41%
+PASS test_suite/test_roundtrip.sh (exit status: 0)

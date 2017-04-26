@@ -1,0 +1,18 @@
+./lepton -hugepages -decode -ujg -recodememory=24M - (NULL)
+./lepton -hugepages -recode -recodememory=24M - (NULL)
+lepton v1.0-1.2.1-100-g6d940eb
+FOUND UJG ARG: using that as output
+lepton v1.0-1.2.1-100-g6d940eb
+ bytes needed to decompress this file
+8946 5937
+150.68%
+ bytes needed to decompress this file
+8946 5937
+150.68%
+Timing encode: 0.011274 encode process exit: 0.011315
+ bytes needed to decompress this file
+8946 5937
+150.68%
+Timing decode: 0.005903 decode process exit: 0.006812
+EXIT STATUS 0 (0) 0 (0)
+PASS test_suite/test_baseline_ujg (exit status: 0)

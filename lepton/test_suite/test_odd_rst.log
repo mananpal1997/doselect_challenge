@@ -1,0 +1,18 @@
+Loading 35243
+./lepton -hugepages -decode -recodememory=24M - (NULL)
+./lepton -hugepages -recode -recodememory=24M - (NULL)
+lepton v1.0-1.2.1-100-g6d940eb
+lepton v1.0-1.2.1-100-g6d940eb
+6609167 bytes needed to decompress this file
+23000 35243
+65.26%
+2390259 bytes needed to decompress this file
+23000 35243
+65.26%
+Timing encode: 0.058701 encode process exit: 0.058710
+2390259 bytes needed to decompress this file
+23000 35243
+65.26%
+Timing decode: 0.010580 decode process exit: 0.010861
+EXIT STATUS 0 (0) 0 (0)
+PASS test_suite/test_odd_rst (exit status: 0)

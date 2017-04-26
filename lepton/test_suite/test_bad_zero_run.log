@@ -1,0 +1,14 @@
+Loading 35243
+./lepton -hugepages -decode -recodememory=24M - (NULL)
+./lepton -hugepages -recode -recodememory=24M - (NULL)
+lepton v1.0-1.2.1-100-g6d940eb
+lepton v1.0-1.2.1-100-g6d940eb
+Assert Failed: huffr->eof && "If 0run is longer than the block must be truncated" at (src/lepton/jpgcoder.cc:4660)
+ASSERTION_FAILURE
+SHORT_READ
+Timing encode: 0.015326 encode process exit: 0.015346
+But this is expected since we were making sure the encoder did fail.
+Failed on encode with code 1
+filetype of file "-" is unknown88 bytes needed to decompress this file
+UNSUPPORTED_JPEG
+PASS test_suite/test_bad_zero_run (exit status: 0)

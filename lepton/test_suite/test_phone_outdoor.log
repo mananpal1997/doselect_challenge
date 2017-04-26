@@ -1,0 +1,18 @@
+Loading 2670607
+./lepton -hugepages -decode -recodememory=24M - (NULL)
+./lepton -hugepages -recode -recodememory=24M - (NULL)
+lepton v1.0-1.2.1-100-g6d940eb
+lepton v1.0-1.2.1-100-g6d940eb
+10989371 bytes needed to decompress this file
+2094295 2670607
+78.42%
+9359987 bytes needed to decompress this file
+2094295 2670607
+78.42%
+Timing encode: 0.711700 encode process exit: 0.711714
+9359987 bytes needed to decompress this file
+2094295 2670607
+78.42%
+Timing decode: 0.211633 decode process exit: 0.212616
+EXIT STATUS 0 (0) 0 (0)
+PASS test_suite/test_phone_outdoor (exit status: 0)

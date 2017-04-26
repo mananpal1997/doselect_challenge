@@ -1,0 +1,14 @@
+lepton v1.0-1.2.1-100-g6d940eb
+lepton v1.0-1.2.1-100-g6d940eb
+34686404 bytes needed to decompress this file
+2210440 23658057
+09.34%
+13004767 bytes needed to decompress this file
+2210440 2686537
+82.28%
+13004751 bytes needed to decompress this file
+2210440 2686537
+82.28%
+(standard input)
+PASS
+PASS test_suite/test_last_block.sh (exit status: 0)

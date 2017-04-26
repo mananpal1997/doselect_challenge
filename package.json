@@ -1,0 +1,23 @@
+{
+  "name": "doselect",
+  "version": "1.0.0",
+  "description": "doselect internship challenge",
+  "main": "app.js",
+  "dependencies": {
+    "async": "^2.3.0",
+    "body-parser": "^1.17.1",
+    "cryptr": "^2.0.0",
+    "express": "^4.15.2",
+    "image-type": "^3.0.0",
+    "multer": "^1.3.0",
+    "mysql": "^2.13.0",
+    "node-cmd": "^3.0.0",
+    "uuid": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manan Pal Singh",
+  "license": "ISC"
+}

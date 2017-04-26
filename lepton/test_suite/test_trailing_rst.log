@@ -1,0 +1,35 @@
+Loading 57524
+./lepton -hugepages -decode -recodememory=24M - (NULL)
+./lepton -hugepages -recode -recodememory=24M - (NULL)
+lepton v1.0-1.2.1-100-g6d940eb
+lepton v1.0-1.2.1-100-g6d940eb
+6631388 bytes needed to decompress this file
+35426 57524
+61.58%
+2437197 bytes needed to decompress this file
+35426 57524
+61.58%
+Timing encode: 0.067186 encode process exit: 0.067206
+2437197 bytes needed to decompress this file
+35426 57524
+61.58%
+Timing decode: 0.017483 decode process exit: 0.017663
+EXIT STATUS 0 (0) 0 (0)
+Loading 73002
+./lepton ./lepton -hugepages -hugepages -decode -recode -defermd5 -recodememory=24M -recodememory=24M - - (NULL)
+(NULL)
+lepton v1.0-1.2.1-100-g6d940eb
+lepton v1.0-1.2.1-100-g6d940eb
+6655272 bytes needed to decompress this file
+47850 73002
+65.55%
+2475558 bytes needed to decompress this file
+47850 73002
+65.55%
+Timing encode: 0.089508 encode process exit: 0.089517
+2475550 bytes needed to decompress this file
+47850 73002
+65.55%
+Timing decode: 0.020596 decode process exit: 0.020859
+EXIT STATUS 0 (0) 0 (0)
+PASS test_suite/test_trailing_rst (exit status: 0)

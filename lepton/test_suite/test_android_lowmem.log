@@ -1,0 +1,35 @@
+Loading 129432
+./lepton -hugepages -decode -singlethread -threadmemory=0M -recodememory=24M - (NULL)
+./lepton -hugepages -recode -singlethread -memory=18M -threadmemory=0M -recodememory=24M - (NULL)
+lepton v1.0-1.2.1-100-g6d940eb
+lepton v1.0-1.2.1-100-g6d940eb
+6795341 bytes needed to decompress this file
+97353 129432
+75.22%
+2635621 bytes needed to decompress this file
+97353 129432
+75.22%
+Timing encode: 0.151079 encode process exit: 0.151089
+2635629 bytes needed to decompress this file
+97353 129432
+75.22%
+Timing decode: 0.035080 decode process exit: 0.035305
+EXIT STATUS 0 (0) 0 (0)
+Loading 415962
+./lepton -hugepages -decode -singlethread -defermd5 -threadmemory=0M -recodememory=24M - (NULL)
+./lepton -hugepages -recode -singlethread -memory=18M -threadmemory=0M -recodememory=24M - (NULL)
+lepton v1.0-1.2.1-100-g6d940eb
+lepton v1.0-1.2.1-100-g6d940eb
+7443431 bytes needed to decompress this file
+289915 415962
+69.70%
+3750252 bytes needed to decompress this file
+289915 415962
+69.70%
+Timing encode: 0.295899 encode process exit: 0.295919
+3750252 bytes needed to decompress this file
+289915 415962
+69.70%
+Timing decode: 0.124040 decode process exit: 0.124329
+EXIT STATUS 0 (0) 0 (0)
+PASS test_suite/test_android_lowmem (exit status: 0)

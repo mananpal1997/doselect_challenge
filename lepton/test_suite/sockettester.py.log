@@ -1,0 +1,72 @@
+10557558 bytes needed to decompress this file
+DONE
+8617715 bytes needed to decompress this file
+DONE
+Child 8847 exited with code 0
+8617755 bytes needed to decompress this file
+DONE
+Child 8866 exited with code 0
+10557558 bytes needed to decompress this file
+DONE
+8617715 bytes needed to decompress this file
+DONE
+Child 8877 exited with code 0
+8617795 bytes needed to decompress this file
+DONE
+Child 8896 exited with code 0
+Assert Failed: err == 0 at (src/lepton/socket_serve.cc:305)
+ASSERTION_FAILURE
+10557558 bytes needed to decompress this file
+DONE
+8617715 bytes needed to decompress this file
+DONE
+Child 8908 exited with code 0
+8617755 bytes needed to decompress this file
+DONE
+Child 8927 exited with code 0
+Assert Failed: err == 0 at (src/lepton/socket_serve.cc:305)
+ASSERTION_FAILURE
+10557558 bytes needed to decompress this file
+DONE
+8617715 bytes needed to decompress this file
+DONE
+Child 8939 exited with code 0
+8617795 bytes needed to decompress this file
+DONE
+Child 8960 exited with code 0
+Assert Failed: err == 0 at (src/lepton/socket_serve.cc:305)
+ASSERTION_FAILURE
+SHORT_READ
+Child 8972 exited with signal 14
+filetype of file "-" is unknown120 bytes needed to decompress this file
+UNSUPPORTED_JPEG
+('encode time ', 0.5969099998474121)
+(2236391, 1718826)
+2236391
+2236391
+('decode time ', 0.2175590991973877, '(', 0.0002491474151611328, ')')
+('yay', 2236391, 1718826, 0.7685713276435113, 'parent pid is ', 8845)
+('encode time ', 0.5751979351043701)
+(2236391, 1718826)
+2236391
+2236391
+('decode time ', 0.22171306610107422, '(', 0.00023102760314941406, ')')
+('yay', 2236391, 1718826, 0.7685713276435113, 'parent pid is ', 8875)
+('encode time ', 0.5767960548400879)
+(2236391, 1718826)
+2236391
+2236391
+('decode time ', 0.20935797691345215, '(', 0.000247955322265625, ')')
+('yay', 2236391, 1718826, 0.7685713276435113, 'parent pid is ', 8905)
+('encode time ', 0.5818870067596436)
+(2236391, 1718826)
+2236391
+2236391
+('decode time ', 0.21959495544433594, '(', 0.00021791458129882812, ')')
+('yay', 2236391, 1718826, 0.7685713276435113, 'parent pid is ', 8936)
+('encode time ', 0.011517763137817383)
+(2236391, 0)
+0
+2236391
+SUCCESS DONE
+PASS test_suite/sockettester.py (exit status: 0)

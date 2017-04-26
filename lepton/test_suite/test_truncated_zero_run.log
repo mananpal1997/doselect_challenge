@@ -1,0 +1,18 @@
+Loading 100971
+./lepton -hugepages -decode -recodememory=24M - (NULL)
+./lepton -hugepages -recode -recodememory=24M - (NULL)
+lepton v1.0-1.2.1-100-g6d940eb
+lepton v1.0-1.2.1-100-g6d940eb
+7283097 bytes needed to decompress this file
+65996 100971
+65.36%
+3191953 bytes needed to decompress this file
+65996 100971
+65.36%
+Timing encode: 0.098188 encode process exit: 0.098200
+3191953 bytes needed to decompress this file
+65996 100971
+65.36%
+Timing decode: 0.011016 decode process exit: 0.011276
+EXIT STATUS 0 (0) 0 (0)
+PASS test_suite/test_truncated_zero_run (exit status: 0)

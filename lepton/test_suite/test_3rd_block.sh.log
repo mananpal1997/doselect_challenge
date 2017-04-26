@@ -1,0 +1,38 @@
+lepton v1.0-1.2.1-100-g6d940eb
+lepton v1.0-1.2.1-100-g6d940eb
+23678750 bytes needed to decompress this file
+3478392 12582912
+27.64%
+15694049 bytes needed to decompress this file
+3478392 4194304
+82.93%
+15694025 bytes needed to decompress this file
+3478392 4194304
+82.93%
+(standard input)
+lepton v1.0-1.2.1-100-g6d940eb
+lepton v1.0-1.2.1-100-g6d940eb
+27797844 bytes needed to decompress this file
+3488850 16777216
+20.80%
+15604278 bytes needed to decompress this file
+3488850 4194304
+83.18%
+15604254 bytes needed to decompress this file
+3488850 4194304
+83.18%
+(standard input)
+lepton v1.0-1.2.1-100-g6d940eb
+lepton v1.0-1.2.1-100-g6d940eb
+32092189 bytes needed to decompress this file
+3501439 20971520
+16.70%
+15733426 bytes needed to decompress this file
+3501439 4194304
+83.48%
+15733402 bytes needed to decompress this file
+3501439 4194304
+83.48%
+(standard input)
+PASS
+PASS test_suite/test_3rd_block.sh (exit status: 0)

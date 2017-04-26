@@ -1,0 +1,18 @@
+Loading 2236391
+./lepton -hugepages -decode -recodememory=24M - (NULL)
+./lepton -hugepages -recode -recodememory=24M - (NULL)
+lepton v1.0-1.2.1-100-g6d940eb
+lepton v1.0-1.2.1-100-g6d940eb
+10557558 bytes needed to decompress this file
+1718826 2236391
+76.86%
+8617723 bytes needed to decompress this file
+1718826 2236391
+76.86%
+Timing encode: 0.562991 encode process exit: 0.563003
+8617723 bytes needed to decompress this file
+1718826 2236391
+76.86%
+Timing decode: 0.184997 decode process exit: 0.186187
+EXIT STATUS 0 (0) 0 (0)
+PASS test_suite/test_iphone (exit status: 0)

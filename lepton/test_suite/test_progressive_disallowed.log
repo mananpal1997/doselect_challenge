@@ -1,0 +1,13 @@
+Loading 101316
+./lepton -hugepages -decode -rejectprogressive -recodememory=24M - (NULL)
+./lepton -hugepages -recode -rejectprogressive -recodememory=24M - (NULL)
+lepton v1.0-1.2.1-100-g6d940eb
+lepton v1.0-1.2.1-100-g6d940eb
+PROGRESSIVE_UNSUPPORTED
+SHORT_READ
+Timing encode: 0.014997 encode process exit: 0.015014
+But this is expected since we were making sure the encoder did fail.
+Failed on encode with code 8
+filetype of file "-" is unknown96 bytes needed to decompress this file
+UNSUPPORTED_JPEG
+PASS test_suite/test_progressive_disallowed (exit status: 0)

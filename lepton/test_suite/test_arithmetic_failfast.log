@@ -1,0 +1,14 @@
+Loading 1953374
+./lepton -hugepages -decode -recodememory=24M - (NULL)
+./lepton -hugepages -recode -recodememory=24M - (NULL)
+lepton v1.0-1.2.1-100-g6d940eb
+lepton v1.0-1.2.1-100-g6d940eb
+sof10 marker found, image is coded arithm. progressive16835025 bytes needed to decompress this file
+UNSUPPORTED_JPEG
+SHORT_READ
+Timing encode: 0.059500 encode process exit: 0.059507
+But this is expected since we were making sure the encoder did fail.
+Failed on encode with code 42
+filetype of file "-" is unknown88 bytes needed to decompress this file
+UNSUPPORTED_JPEG
+PASS test_suite/test_arithmetic_failfast (exit status: 0)

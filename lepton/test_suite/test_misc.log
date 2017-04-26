@@ -1,0 +1,69 @@
+Loading 95820
+./lepton -hugepages -decode -recodememory=24M - (NULL)
+./lepton -hugepages -recode -recodememory=24M - (NULL)
+lepton v1.0-1.2.1-100-g6d940eb
+lepton v1.0-1.2.1-100-g6d940eb
+6727799 bytes needed to decompress this file
+74256 95820
+77.50%
+2554114 bytes needed to decompress this file
+74256 95820
+77.50%
+Timing encode: 0.086965 encode process exit: 0.086972
+2554114 bytes needed to decompress this file
+74256 95820
+77.50%
+Timing decode: 0.026064 decode process exit: 0.026323
+EXIT STATUS 0 (0) 0 (0)
+Loading 56191
+./lepton ./lepton -hugepages -hugepages -recode -decode -recodememory=24M -defermd5 - -recodememory=24M (NULL)
+- (NULL)
+lepton v1.0-1.2.1-100-g6d940eb
+lepton v1.0-1.2.1-100-g6d940eb
+6705386 bytes needed to decompress this file
+40120 56191
+71.40%
+2566256 bytes needed to decompress this file
+40120 56191
+71.40%
+Timing encode: 0.078754 encode process exit: 0.078762
+2566248 bytes needed to decompress this file
+40120 56191
+71.40%
+Timing decode: 0.018519 decode process exit: 0.018718
+EXIT STATUS 0 (0) 0 (0)
+Loading 261528
+./lepton -hugepages -decode -recodememory=24M - (NULL)
+./lepton -hugepages -recode -recodememory=24M - (NULL)
+lepton v1.0-1.2.1-100-g6d940eb
+lepton v1.0-1.2.1-100-g6d940eb
+7117867 bytes needed to decompress this file
+204744 261528
+78.29%
+3257719 bytes needed to decompress this file
+204744 261528
+78.29%
+Timing encode: 0.089651 encode process exit: 0.089670
+3257719 bytes needed to decompress this file
+204744 261528
+78.29%
+Timing decode: 0.024579 decode process exit: 0.025284
+EXIT STATUS 0 (0) 0 (0)
+Loading 122024
+./lepton -hugepages -decode -recodememory=24M - (NULL)
+./lepton -hugepages -recode -recodememory=24M - (NULL)
+lepton v1.0-1.2.1-100-g6d940eb
+lepton v1.0-1.2.1-100-g6d940eb
+6782172 bytes needed to decompress this file
+94868 122024
+77.75%
+2633211 bytes needed to decompress this file
+94868 122024
+77.75%
+Timing encode: 0.099886 encode process exit: 0.099895
+2633211 bytes needed to decompress this file
+94868 122024
+77.75%
+Timing decode: 0.030011 decode process exit: 0.030187
+EXIT STATUS 0 (0) 0 (0)
+PASS test_suite/test_misc (exit status: 0)

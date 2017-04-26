@@ -1,0 +1,7 @@
+lepton v1.0-1.2.1-100-g6d940eb
+8438377 bytes needed to decompress this file
+1381119 1794924
+76.95%
+(standard input)
+PASS
+PASS test_suite/test_legacy.sh (exit status: 0)

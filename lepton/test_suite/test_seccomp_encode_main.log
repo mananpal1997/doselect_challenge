@@ -1,0 +1,12 @@
+Inject failure level is 1 so is it encode args? 1 or decode_args? 0
+./lepton -hugepages -decode -injectsyscall=1 -singlethread -recodememory=24M - (NULL)
+./lepton -hugepages -recode -singlethread -recodememory=24M - (NULL)
+lepton v1.0-1.2.1-100-g6d940eb
+lepton v1.0-1.2.1-100-g6d940eb
+SHORT_READ
+Timing encode: 1.723523 encode process exit: 1.723545
+But this is expected since we were making sure the encoder did fail.
+Failed on encode with code 0
+filetype of file "-" is unknown96 bytes needed to decompress this file
+UNSUPPORTED_JPEG
+PASS test_suite/test_seccomp_encode_main (exit status: 0)

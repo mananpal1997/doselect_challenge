@@ -1,0 +1,13 @@
+Loading 129432
+./lepton -hugepages -decode -recodememory=6M - (NULL)
+./lepton -hugepages -recode -recodememory=6M - (NULL)
+lepton v1.0-1.2.1-100-g6d940eb
+lepton v1.0-1.2.1-100-g6d940eb
+TOO_MUCH_MEMORY_NEEDED
+SHORT_READ
+Timing encode: 0.078643 encode process exit: 0.078649
+But this is expected since we were making sure the encoder did fail.
+Failed on encode with code 38
+filetype of file "-" is unknown88 bytes needed to decompress this file
+UNSUPPORTED_JPEG
+PASS test_suite/test_recode_memory_bound (exit status: 0)

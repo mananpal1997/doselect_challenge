@@ -1,0 +1,17 @@
+Inject failure level is 4 so is it encode args? 0 or decode_args? 1
+./lepton -hugepages -decode -singlethread -recodememory=24M - (NULL)
+./lepton -hugepages -recode -injectsyscall=2 -singlethread -recodememory=24M - (NULL)
+lepton v1.0-1.2.1-100-g6d940eb
+lepton v1.0-1.2.1-100-g6d940eb
+6582931 bytes needed to decompress this file
+4462 5937
+75.16%
+2348610 bytes needed to decompress this file
+4462 5937
+75.16%
+Timing encode: 0.015720 encode process exit: 0.015747
+Timing decode: 0.000019 decode process exit: 0.000059
+EXIT STATUS 0 (0) 0 (134)
+But this is expected since we were making sure the decoder did fail.
+Failed on decode with code 0: 134
+PASS test_suite/test_seccomp_decode_thread (exit status: 0)

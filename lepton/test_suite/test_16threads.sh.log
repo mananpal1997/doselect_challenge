@@ -1,0 +1,12 @@
+lepton v1.0-1.2.1-100-g6d940eb
+8585870 bytes needed to decompress this file
+1737403 2236391
+77.69%
+(standard input)
+lepton v1.0-1.2.1-100-g6d940eb
+8690466 bytes needed to decompress this file
+1737403 2236391
+77.69%
+(standard input)
+PASS
+PASS test_suite/test_16threads.sh (exit status: 0)
